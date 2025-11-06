@@ -9,6 +9,6 @@
 ## 🎮 대표 프로젝트
 <p align="center">
   <a href="https://github.com/Zi-woo/RhythmSouls">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zi-woo&repo=RhythmSouls&theme=tokyonight" width="70%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zi-woo&repo=RhythmSouls&theme=tokyonight" width="40%"/>
   </a>
 </p>

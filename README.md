@@ -27,8 +27,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-2022_LTS-black?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/FMOD-FF0000?logo=fmod&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShaderLab-HLSL-blueviolet" />
   <img src="https://img.shields.io/badge/VersionControl-Git-orange?logo=git&logoColor=white" />
 </p>
 

@@ -32,13 +32,5 @@
 
 ---
 
-### 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zi-woo&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zi-woo&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
----
-
 ### ✨ Quote
 <p align="center"><em>"타이밍과 손맛이 살아있는 전투를 만드는 것이 제 즐거움입니다."</em></p>

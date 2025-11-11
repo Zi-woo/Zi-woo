@@ -17,7 +17,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zi-woo&repo=RhythmSouls&theme=tokyonight" width="60%"/>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/Zi-woo/RhythmSouls">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zi-woo&repo=ML-Agents_AI&theme=tokyonight" width="60%"/>
+  </a>
+</p>
 > 🕹 **Rhythm Souls** — 리듬 판정과 소울라이크 전투를 결합한 2D 액션 게임  
 > 🎵 데이터 드리븐 구조, FSM, 오브젝트 풀링, ScriptableObject 기반 설계
 

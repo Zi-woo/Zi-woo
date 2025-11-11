@@ -1,4 +1,4 @@
-<h1 align="center">🎮 임지우 | Jiwoo Lim</h1>
+<h1 align="center">🎮 임지우 | Jiwoo Im</h1>
 <p align="center">Unity 기반의 전투 시스템과 게임플레이를 설계하는 게임개발자</p>
 
 ---

@@ -19,8 +19,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Zi-woo/ML-Agents_AI">
-    <img src="https://github.com/user-attachments/assets/5ff83746-8fb6-4aec-981a-10fb4be17560" width="45%" />
+    <img src="https://github.com/user-attachments/assets/5ff83746-8fb6-4aec-981a-10fb4be17560" width="45%" style="cursor:pointer;"/>
   </a>
+</p>
+<p align="center">
+  <sub>클릭 시 레포지토리로 이동합니다</sub>
 </p>
 
 > 🕹 **Rhythm Souls** — 리듬 판정과 소울라이크 전투를 결합한 2D 액션 게임  

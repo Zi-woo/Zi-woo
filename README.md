@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Zi-woo/RhythmSouls">
-    <img src="https://github-readme-stats-git-main-rstaa-rstaa-team.vercel.app/api/pin/?username=Zi-woo&repo=RhythmSouls&theme=tokyonight" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zi-woo&repo=RhythmSouls&theme=tokyonight" width="45%"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Zi-woo/ML-Agents_AI">

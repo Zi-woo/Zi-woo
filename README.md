@@ -17,10 +17,12 @@
   <a href="https://github.com/Zi-woo/RhythmSouls">
     <img src="https://github.com/user-attachments/assets/df73d368-f54f-499f-a419-923d492023ff" width="45%" alt="Rhythm Souls (클릭해 레포지토리로 이동)"/>
   </a>
+  <br/>이미지를 클릭하면 레포지토리로 이동합니다
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Zi-woo/ML-Agents_AI">
     <img src="https://github.com/user-attachments/assets/5ff83746-8fb6-4aec-981a-10fb4be17560" width="45%" />
   </a>
+  <br/>이미지를 클릭하면 레포지토리로 이동합니다
 </p>
 
 > 🕹 **Rhythm Souls** — 리듬 판정과 소울라이크 전투를 결합한 2D 액션 게임  

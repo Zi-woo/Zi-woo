@@ -25,7 +25,7 @@
 <p align="center">
   <sub>클릭 시 레포지토리로 이동합니다</sub>
 </p>
-
+<br/>
 > 🕹 **Rhythm Souls** — 리듬 판정과 소울라이크 전투를 결합한 2D 액션 게임  
 > 🎵 데이터 드리븐 구조, FSM, 오브젝트 풀링, ScriptableObject 기반 설계  
 > 🤖 **ML-Agents AI** — 강화학습을 통해 상황별 최적 행동을 학습하는 AI 연구용 프로젝트

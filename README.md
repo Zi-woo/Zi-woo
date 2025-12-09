@@ -19,7 +19,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Zi-woo/ML-Agents_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zi-woo&repo=ML-Agents_AI&theme=tokyonight" width="45%"/>
+    <img src="https://github.com/user-attachments/assets/5ff83746-8fb6-4aec-981a-10fb4be17560" width="45%" />
   </a>
 </p>
 

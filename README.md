@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Zi-woo/RhythmSouls">
-    <img src="https://github.com/user-attachments/assets/df73d368-f54f-499f-a419-923d492023ff" width="45%"/>
+    <img src="https://github.com/user-attachments/assets/df73d368-f54f-499f-a419-923d492023ff" width="45%" alt="Rhythm Souls (클릭해 레포지토리로 이동)"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Zi-woo/ML-Agents_AI">

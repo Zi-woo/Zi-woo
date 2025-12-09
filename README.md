@@ -24,6 +24,7 @@
 </p>
 <p align="center">
   <sub>클릭 시 레포지토리로 이동합니다</sub>
+  <br/>
 </p>
 
 > 🕹 **Rhythm Souls** — 리듬 판정과 소울라이크 전투를 결합한 2D 액션 게임  

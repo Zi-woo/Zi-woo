@@ -1,5 +1,5 @@
 <h1 align="center">🎮 임지우 | Jiwoo Im</h1>
-<p align="center">Unity 기반의 전투 시스템과 게임플레이를 설계하는 게임개발자</p>
+<p align="center">기획 의도를 정확히 구현하는 데 집중하는 게임개발자</p>
 
 ---
 

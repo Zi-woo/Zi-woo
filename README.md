@@ -46,6 +46,16 @@
 > 🛡 **Parry Hero** — 패링/회피 중심 2D 액션 전투 시스템 데모  
 > • ScriptableObject 콤보 데이터 / 이벤트 기반 구조 / I-Frame 회피 / 패링 불가 패턴(레이저) 설계  
 
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Zi-woo/3D_Maze">
+    <img src="https://github.com/user-attachments/assets/9cebfc69-cb52-4e45-bdc5-812f9083838d" width="70%" />
+  </a>
+</p>
+
+> 🐱 **3D Maze** — 미로 곳곳에 숨겨진 고양이를 찾는 3D 게임
+> • Rigidbody 기반 이동 / Material별 데미지 시스템 / 데이터 주도 무기 밸런싱
 
 
 ---

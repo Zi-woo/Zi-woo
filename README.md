@@ -1,11 +1,11 @@
 <h1 align="center">🎮 임지우 | Jiwoo Im</h1>
-<p align="center">무조건적인 재미를 추구하는 게임개발자</p>
+<p align="center">기획 의도를 정확하게 구현하는 개발자</p>
 
 ---
 
 ### 💡 About Me
 - 🧩 **주력 기술**: Unity(C#)
-- 💬 **목표**: 무조건적인 재미를 추구하는 게임개발자
+- 💬 **목표**: 기획 의도를 정확하게 구현하는 개발자
 - 📫 **Contact**: jiwoojiwoo64@gmail.com  
 
 ---
@@ -64,7 +64,17 @@
   </a>
 </p>
 
-> 🏹 **Arrow War** — 다양한 화살로 적을 막아내는 2D 캐슬 디펜스 게임  
+> 🏹 **Arrow War** — 다양한 화살로 적을 막아내는 2D 캐슬 디펜스 게임
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Zi-woo/3D_Maze">
+    <img src="https://github.com/user-attachments/assets/f3a7a501-fedd-4ff4-9ab1-b668473a8fce" width="70%" />
+  </a>
+</p>
+
+> **3D Survival** — 3D 뱀파이어 서바이벌류의 게임
 
 ---
 

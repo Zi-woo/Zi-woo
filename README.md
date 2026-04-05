@@ -69,7 +69,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Zi-woo/3D_Maze">
+  <a href="https://github.com/Zi-woo/3DSlide">
     <img src="https://github.com/user-attachments/assets/f3a7a501-fedd-4ff4-9ab1-b668473a8fce" width="70%" />
   </a>
 </p>

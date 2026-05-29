@@ -84,7 +84,7 @@
   </a>
 </p>
 
-> **SignalRunner** — 2D 탑다운 탈출게
+> **SignalRunner** — 2D 탑다운 탈출게임
 
 ---
 

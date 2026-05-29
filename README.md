@@ -26,6 +26,47 @@
 <br/>
 
 <p align="center">
+  <a href="https://github.com/Zi-woo/SignalRunner">
+    <img src="https://github.com/user-attachments/assets/4100f382-42dd-4c3f-b178-97033a0f7de2" width="70%" />
+  </a>
+</p>
+
+> **SignalRunner** — 2D 탑다운 탈출게임
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Zi-woo/3DSlide">
+    <img src="https://github.com/user-attachments/assets/f3a7a501-fedd-4ff4-9ab1-b668473a8fce" width="70%" />
+  </a>
+</p>
+
+> **3D Survival** — 3D 뱀파이어 서바이벌류의 게임
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Zi-woo/Arrow_War">
+    <img src="https://github.com/user-attachments/assets/7916469b-07fb-428d-9567-34c0c1c82cb1" width="70%" />
+  </a>
+</p>
+
+> 🏹 **Arrow War** — 다양한 화살로 적을 막아내는 2D 캐슬 디펜스 게임
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Zi-woo/3D_Maze">
+    <img src="https://github.com/user-attachments/assets/9cebfc69-cb52-4e45-bdc5-812f9083838d" width="70%" />
+  </a>
+</p>
+
+> 🐱 **3D Maze** — 미로 곳곳에 숨겨진 고양이를 찾는 3D 게임
+> • Material별 데미지 시스템 / 데이터 주도 무기 밸런싱
+
+<br/>
+
+<p align="center">
   <a href="https://github.com/Zi-woo/ML-Agents_AI">
     <img src="https://github.com/user-attachments/assets/5ff83746-8fb6-4aec-981a-10fb4be17560" width="70%" />
   </a>
@@ -47,44 +88,7 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Zi-woo/3D_Maze">
-    <img src="https://github.com/user-attachments/assets/9cebfc69-cb52-4e45-bdc5-812f9083838d" width="70%" />
-  </a>
-</p>
 
-> 🐱 **3D Maze** — 미로 곳곳에 숨겨진 고양이를 찾는 3D 게임
-> • Material별 데미지 시스템 / 데이터 주도 무기 밸런싱
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Zi-woo/Arrow_War">
-    <img src="https://github.com/user-attachments/assets/7916469b-07fb-428d-9567-34c0c1c82cb1" width="70%" />
-  </a>
-</p>
-
-> 🏹 **Arrow War** — 다양한 화살로 적을 막아내는 2D 캐슬 디펜스 게임
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Zi-woo/3DSlide">
-    <img src="https://github.com/user-attachments/assets/f3a7a501-fedd-4ff4-9ab1-b668473a8fce" width="70%" />
-  </a>
-</p>
-
-> **3D Survival** — 3D 뱀파이어 서바이벌류의 게임
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Zi-woo/SignalRunner">
-    <img src="https://github.com/user-attachments/assets/4100f382-42dd-4c3f-b178-97033a0f7de2" width="70%" />
-  </a>
-</p>
-
-> **SignalRunner** — 2D 탑다운 탈출게임
 
 ---
 
